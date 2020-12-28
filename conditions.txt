@@ -1,0 +1,5 @@
+14 - manual
+15 - removed
+16 - make list of valid domains (all posts not having valid domains are abnormal)
+17 - same
+2018,2013 - same but remove self.soccer from valid list
